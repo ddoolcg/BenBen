@@ -17,6 +17,7 @@ public class TitleFragmentAdapter extends FragmentPagerAdapter {
 	@Override
 	public void setPrimaryItem(ViewGroup container, int position, Object object) {
 		super.setPrimaryItem(container, position, object);
+		
 	}
 
 	@Override
